@@ -91,5 +91,14 @@ Siga os passos abaixo para configurar e rodar o projeto na sua máquina:
 ```bash
 git clone https://github.com/seu-usuario/Ecommerce-react.git
 cd Ecommerce-react
----
 
+2. Instale as Dependências
+Certifique-se de ter o Node.js instalado.
+
+npm install
+
+3. Inicie o Servidor de Desenvolvimento
+
+npm run dev
+
+---
