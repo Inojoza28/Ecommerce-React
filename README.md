@@ -44,6 +44,25 @@ Bem-vindo ao **Smart Shopping**, uma aplicação de e-commerce minimalista desen
   - Sempre fixo no final da página.
   - Exibe o ano atual e uma mensagem.
  
+    ## 📚 Referências
+
+- [React Documentation](https://reactjs.org/docs/getting-started.html)  
+  Documentação oficial do React, abordando desde conceitos básicos até avançados.
+
+- [Vite Documentation](https://vitejs.dev/guide/)  
+  Guia oficial do Vite, com instruções para configuração e desenvolvimento rápido.
+
+- [React Router Documentation](https://reactrouter.com/)  
+  Documentação oficial do React Router, para navegação e gerenciamento de rotas.
+
+- [React Icons Documentation](https://react-icons.github.io/react-icons/)  
+  Catálogo e documentação para uso de ícones no React.
+
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+  Referência detalhada para todas as propriedades CSS.
+
+
+ 
 ## 🔧 Como Rodar o Projeto Localmente
 
 Siga os passos abaixo para configurar e rodar o projeto na sua máquina:
