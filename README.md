@@ -55,4 +55,3 @@ git clone https://github.com/seu-usuario/Ecommerce-react.git
 cd Ecommerce-react
 ---
 
-> Desenvolvido com 🧡 por Gabriel Inojoza.
