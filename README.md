@@ -54,3 +54,5 @@ Siga os passos abaixo para configurar e rodar o projeto na sua máquina:
 git clone https://github.com/seu-usuario/Ecommerce-react.git
 cd Ecommerce-react
 ---
+
+> Desenvolvido com 🧡 por Gabriel Inojoza.
