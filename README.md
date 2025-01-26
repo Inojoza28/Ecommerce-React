@@ -43,8 +43,10 @@ Bem-vindo ao **Smart Shopping**, uma aplicação de e-commerce minimalista desen
 - **Footer Minimalista**:
   - Sempre fixo no final da página.
   - Exibe o ano atual e uma mensagem.
+  
+  ---
  
-    ## 📚 Referências
+## 📚 Referências
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html)  
   Documentação oficial do React, abordando desde conceitos básicos até avançados.
@@ -61,7 +63,19 @@ Bem-vindo ao **Smart Shopping**, uma aplicação de e-commerce minimalista desen
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
   Referência detalhada para todas as propriedades CSS.
 
+---
 
+## 🧑‍💻 Autor
+
+Feito com 💙 por **Gabriel Inojoza**.
+
+- **GitHub**: [inojoza28](https://github.com/inojoza28)  
+- **LinkedIn**: [Carlos Gabriel](https://www.linkedin.com/in/gabrielinojoza/)  
+- **Email**: carlosginojoza@gmail.com  
+
+Se tiver dúvidas, sugestões ou feedback, sinta-se à vontade para entrar em contato!
+
+---
  
 ## 🔧 Como Rodar o Projeto Localmente
 
