@@ -79,7 +79,7 @@ Feito com 💙 por **Gabriel Inojoza**.
 
 Se tiver dúvidas, sugestões ou feedback, sinta-se à vontade para entrar em contato!
 
-
+--
  
 ## 🔧 Como Rodar o Projeto Localmente
 
