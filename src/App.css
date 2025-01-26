@@ -142,3 +142,9 @@ button:hover {
   color: #333;
   font-size: 0.9rem;
 }
+
+@media (max-width: 400px) {
+  .logo {
+    margin-left: 0px;     
+  }
+}
