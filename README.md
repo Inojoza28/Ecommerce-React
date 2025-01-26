@@ -43,8 +43,10 @@ Bem-vindo ao **Smart Shopping**, uma aplicação de e-commerce minimalista desen
 - **Footer Minimalista**:
   - Sempre fixo no final da página.
   - Exibe o ano atual e uma mensagem.
+
   
   ---
+  
  
 ## 📚 Referências
 
@@ -62,8 +64,10 @@ Bem-vindo ao **Smart Shopping**, uma aplicação de e-commerce minimalista desen
 
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
   Referência detalhada para todas as propriedades CSS.
+  
 
 ---
+
 
 ## 🧑‍💻 Autor
 
@@ -74,6 +78,7 @@ Feito com 💙 por **Gabriel Inojoza**.
 - **Email**: carlosginojoza@gmail.com  
 
 Se tiver dúvidas, sugestões ou feedback, sinta-se à vontade para entrar em contato!
+
 
 ---
  
