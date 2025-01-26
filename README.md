@@ -1,4 +1,4 @@
-# 🛒 Meu E-commerce - Mini Loja Virtual
+# 🛒 Smart Shopping - Mini Loja Virtual
 
 Bem-vindo ao **Meu E-commerce**, uma aplicação de e-commerce minimalista desenvolvida com **React + Vite**. Este projeto demonstra uma loja virtual simples e funcional, utilizando conceitos essenciais do React, como gerenciamento de estado, props, contexto, rotas e estilização responsiva.
 
