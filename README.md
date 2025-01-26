@@ -1,6 +1,6 @@
 # 🛒 Smart Shopping - Mini Loja Virtual
 
-Bem-vindo ao **Meu E-commerce**, uma aplicação de e-commerce minimalista desenvolvida com **React + Vite**. Este projeto demonstra uma loja virtual simples e funcional, utilizando conceitos essenciais do React, como gerenciamento de estado, props, contexto, rotas e estilização responsiva.
+Bem-vindo ao **Smart Shopping**, uma aplicação de e-commerce minimalista desenvolvida com **React + Vite**. Este projeto demonstra uma loja virtual simples e funcional, utilizando conceitos essenciais do React, como gerenciamento de estado, props, contexto, rotas e estilização responsiva.
 
 ---
 
@@ -51,6 +51,6 @@ Siga os passos abaixo para configurar e rodar o projeto na sua máquina:
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/carrinho-react.git
-cd carrinho-react
+git clone https://github.com/seu-usuario/Ecommerce-react.git
+cd Ecommerce-react
 ---
