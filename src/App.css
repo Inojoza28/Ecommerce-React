@@ -24,7 +24,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #ff6f47;
+  background-color: #ff6439fa;
   padding: 1rem 2rem;
   border-bottom: 1px solid #ddd;
 }
