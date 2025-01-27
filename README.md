@@ -71,7 +71,7 @@ Bem-vindo ao **Smart Shopping**, uma aplicação de e-commerce minimalista desen
 
 ## 🧑‍💻 Autor
 
-Feito com 💙 por **Gabriel Inojoza**.
+Feito com 🧡 por **Gabriel Inojoza**.
 
 - **GitHub**: [inojoza28](https://github.com/inojoza28)  
 - **LinkedIn**: [Carlos Gabriel](https://www.linkedin.com/in/gabrielinojoza/)  
